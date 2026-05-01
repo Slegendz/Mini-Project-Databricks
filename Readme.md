@@ -1,17 +1,6 @@
 # Data Engineering Pipeline Documentation
 
 ## Medallion Architecture (Bronze → Silver → Gold)
-
----
-
-## Prepared By
-
-**Name:** Sachin Negi (INT260)
-
-**Project Type:** Data Engineering Mini Project
-
-**Architecture:** Medallion (Lakehouse)
-
 **Technology Stack:** PySpark, Delta Lake, Azure Data Lake, Databricks
 
 ---
